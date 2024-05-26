@@ -1,4 +1,4 @@
-<p align="center"><img alt="zfsjlll 的个人博客" src="https://i.328888.xyz/2023/03/26/iDp7T3.png"></p><h2 align="center">
+<p align="center"><img alt="zfsjlll 的个人博客" src="https://cdn.jsdelivr.net/gh/conquer1the2world3/zfsjlll-blog@main/Pictures/1684813133593.42n2d7xmqns0.webp"></p><h2 align="center">
 zfsjlll 的个人博客
 </h2>
 
@@ -12,8 +12,6 @@ zfsjlll 的个人博客
 
 * [菠萝 Bolo 博客系统已部署成功。](https://blog.002724.xyz/hello-bolo)
 
-
-
 ---
 
-本仓库通过 [Bolo](https://github.com/adlered/bolo-solo) 自动进行同步更新 ❤️ 
+本仓库通过 [Bolo](https://github.com/adlered/bolo-solo) 自动进行同步更新 ❤️
